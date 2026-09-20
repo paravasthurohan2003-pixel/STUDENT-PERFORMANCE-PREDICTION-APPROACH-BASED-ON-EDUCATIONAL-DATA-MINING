@@ -1,0 +1,2 @@
+# STUDENT-PERFORMANCE-PREDICTION-APPROACH-BASED-ON-EDUCATIONAL-DATA-MINING
+Developed a machine learning-based system to analyze educational data and predict student performance. The project uses student-related academic and behavioral factors to identify performance patterns and provide early insights that can help educators understand students' learning outcomes and support better academic decision-making.
